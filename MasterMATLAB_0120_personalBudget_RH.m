@@ -54,6 +54,7 @@ student.age = 25;
 student.grade = 'A';
 disp(student);                                      % The disp() function can also display the fields and values of the structure
 
+
 %% Matrix, Cell, Structure
 % In MATLAB, cell arrays, matrices, and structures are different data structures with distinct characteristics and purposes.
 % Matrices:
